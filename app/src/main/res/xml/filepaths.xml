@@ -1,0 +1,3 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-path name="external" path="Android/data/com.tianshu.nailbackup/files/" />
+</paths>
